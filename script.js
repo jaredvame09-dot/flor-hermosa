@@ -65,7 +65,7 @@ function goBack() {
 // ===== FUNCIONALIDAD DE LA PÁGINA DE MENSAJE =====
 
 // Variables para el efecto de typing
-const message = "Te amo de una forma tan dulce y profunda que se siente en cada latido..\n\nEres mi refugio, mi paz y la razón de mis sonrisas más sinceras, mi niña hermosa.\n\nY si la vida me diera mil oportunidades, en cada una volvería a elegirte a ti.";
+const message = "Te amo de una forma tan dulce y profunda que se siente en cada latido.\n\nEres mi refugio, mi paz y la razón de mis sonrisas más sinceras, mi niña hermosa.\n\nY si la vida me diera mil oportunidades, en cada una volvería a elegirte a ti.";
 const loveMessage = "Te amo";
 let i = 0;
 let loveI = 0;
